@@ -25,3 +25,14 @@
 - sudo -> to become root
 - chgrp -> change the group from the file
 - chown -> change the owner of the file
+## The permissions table value
+rwx - Binary (octal) -> Represented by a decimal value 
+000 = 0 = ---
+001 = 1 = --x
+010 = 2 = -w-
+011 = 3 = -wx
+100 = 4 = r--
+101 = 5 = r-x
+110 = 6 = rw-
+111 = 7 = rwx
+obs: A 0 means not set, a 1 means set in each position
