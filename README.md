@@ -16,6 +16,7 @@
 - cat <path of file> -> output content from a file
 - open <path of file> -> open a file using the default application
 - less -> to show content limited
+- whoami -> to know which user you are using
 
 ## Change permissions
 
