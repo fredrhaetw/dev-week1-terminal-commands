@@ -27,12 +27,12 @@
 - chown -> change the owner of the file
 ## The permissions table value
 rwx - Binary (octal) -> Represented by a decimal value <br>
-000 = 0 = --- <br>
-001 = 1 = --x <br>
-010 = 2 = -w- <br>
-011 = 3 = -wx <br>
-100 = 4 = r-- <br>
-101 = 5 = r-x <br>
-110 = 6 = rw- <br>
-111 = 7 = rwx <br>
+000 &nbsp;= 0 =&nbsp; --- <br>
+001 &nbsp;= 1 =&nbsp; --x <br>
+010 &nbsp;= 2 =&nbsp; -w- <br>
+011 &nbsp;= 3 =&nbsp; -wx <br>
+100 &nbsp;= 4 =&nbsp; r-- <br>
+101 &nbsp;= 5 =&nbsp; r-x <br>
+110 &nbsp;= 6 =&nbsp; rw- <br>
+111 &nbsp;= 7 =&nbsp; rwx <br>
 obs: A 0 means not set, a 1 means set in each position
