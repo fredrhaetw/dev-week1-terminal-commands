@@ -11,7 +11,7 @@
 - rm -r -> remove file or folder
 - man -> To get manual
 - mv <source path> <target path> -> move files
-- cp <source path> <target path> -> 
+- cp <source path> <target path> -> to copy a file from the source path to target path
 - pwd -> show complete path
 - cat <path of file> -> output content from a file
 - open <path of file> -> open a file using the default application
