@@ -18,6 +18,7 @@
 - less -> to show content limited
 - whoami -> to know which user you are using
 - ln -> to creat symbolic link
+- sort -> to sort the file
 
 ## Change permissions
 
