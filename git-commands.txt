@@ -3,4 +3,4 @@
 git init -> initiate git and creates a repository 
 git add [file name] -> adds the file to be commited
 git commit -m "description of the commit" -> to keep track on what was done
-
+k
