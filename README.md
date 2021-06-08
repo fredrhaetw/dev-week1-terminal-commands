@@ -39,4 +39,4 @@ rwx - Binary (octal) -> Represented by a decimal value <br>
 101 &nbsp;= 5 =&nbsp; r-x <br>
 110 &nbsp;= 6 =&nbsp; rw- <br>
 111 &nbsp;= 7 =&nbsp; rwx <br>
-obs: A 0 means not set, a 1 means set in each position
+obs: A 0 means not set, a 1 means set in each position 
